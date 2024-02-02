@@ -108,7 +108,7 @@ if (container) {
 - [Что такое VK ID](https://id.vk.com/business/go/docs/ru/vkid/latest/vk-id/intro/start-page)
 - [Создание приложения](https://id.vk.com/business/go/docs/ru/vkid/latest/vk-id/connection/create-application)
 - [Требования к дизайну](https://id.vk.com/business/go/docs/ru/vkid/archive/1.60/vk-id/guidelines/design-rules)
-- [Спецификация](https://vkcom.github.io/vkid-web-sdk/documentation/vkid/)
+- [Спецификация](https://ohmyp.github.io/test-pages/)
 
 ## Contributing
 
